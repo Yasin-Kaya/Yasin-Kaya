@@ -1,6 +1,6 @@
 <img src="https://www.opcito.com/hs-fs/hubfs/DevOps-CI-CD_03.gif?width=600&height=400&name=DevOps-CI-CD_03.gif" align="right" width="350" height="200">
 
-[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=1572F7&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Yasin;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
+[![Typing SVG](http://readme-typing-svg.herokuapp.com?font=Fredoka+One&size=30&pause=1000&color=D29012&width=435&lines=Hi+there+%F0%9F%91%8B+I'm+Yasin;Welcome+to+my+GitHub+page)](https://git.io/typing-svg)
 
 ## Socials:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasin-kaya/)
@@ -22,10 +22,8 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-## Snake eating my contribution graph!!
-![snake gif](https://github.com/Kaya-Y/Kaya-Y/blob/output/github-contribution-grid-snake.gif)
 
-![](https://komarev.com/ghpvc/?username=your-github-fatihabdioglu)
+
 ## GitHub Stats:
 <img src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif?cid=790b76114acbabb2a6dff2fdf3d3b138e89c8f25cb1fa941&rid=giphy.gif&ct=g" align="right" width="340" height="200">
 
