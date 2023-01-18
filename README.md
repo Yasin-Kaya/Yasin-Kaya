@@ -28,7 +28,7 @@
 ---
 <p align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=Kaya-Y&theme=chartreuse-dark&show_icons=true" alt="my github status" width="49%"/>&nbsp;
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Kaya-Y&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?username=Kaya-Y&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaya-Y&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
 
 <p align="center">
